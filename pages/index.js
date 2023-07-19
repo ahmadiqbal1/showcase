@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Ujen Basi - Frontend Developer</title>
+        <title>Ahmad Iqbal - Personal Portfolio </title>
       </Head>
       <Hero />
       <About />
