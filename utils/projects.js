@@ -1,13 +1,13 @@
 export const projects = [
   {
     id: "as4dc857s5158",
-    title: "Hashnode Clone",
+    title: "BIO PAGE LINKS",
     description:
-      "This is a full-stack application that serves as a clone of the popular blogging website, Hashnode. It is in developing phase. It will have almost all the features of Hashnode.",
+      "Create everything with one platform. Create one page websites through relevant blocks",
     image: "/assets/hashnode.png",
-    link: "https://github.com/ujen5173/Hashnode",
-    live: "https://hashnode-t3.vercel.app/",
-    techStack: ["NEXTJS", "POSTGRESQL", "TRPC", "T3-STACK", "TAILWINDCSS"],
+    link: "https://biopagelinks.com",
+    live: "https://biopagelinks.com",
+    techStack: ["Laravel", "MySQL", "Web Hosting", "Plugins", "PHP", "HTML", "CSS"],
   },
   {
     id: "safwef234",
@@ -37,21 +37,21 @@ export const projects = [
   },
   {
     id: "as6df213g46weasdcvawe8r4",
-    title: "Bussinesys",
-    description: "A simple bussiness clone using Nextjs.",
+    title: "GadgetzSpace",
+    description: "GadgetzSpace - An Ecommerce Store with latest gadegetz.",
     image: "/assets/bussinesys.png",
-    live: "https://bussinesys.vercel.app/",
-    link: "https://github.com/ujen5173/Bussinesys",
-    techStack: ["NEXTJS", "TAILWIND"],
+    live: "https://gadgetzspace.com/",
+    link: "https://gadgetzspace.com",
+    techStack: ["WordPress", "WooCommerce"],
   },
   {
     id: "32asdf683wawec",
     title: "Portfolio Website",
-    live: null,
+    live: "https://ahmadiqbal.pages.dev",
     description:
       "This is the first version of my portfolio website. I wanted to keep it basic and simple. Animations are done using framer-motion library",
     image: "/assets/portfolio.png",
-    link: "https://github.com/ujen5173/portfolio",
+    link: "https://github.com/ahmadiqbal1/showcase",
     techStack: ["REACT", "FRAMER-MOTION", "TAILWINDCSS"],
   },
 ];
